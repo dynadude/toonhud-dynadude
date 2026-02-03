@@ -204,7 +204,7 @@ Scheme
 			"isproportional" "only"
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"12" [!$POSIX]
 				"tall"		"14" [$POSIX]
 				"weight"	"0"
@@ -213,7 +213,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"13" [!$POSIX]
 				"tall"		"16" [$POSIX]
 				"weight"	"0"
@@ -222,7 +222,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14" [!$POSIX]
 				"tall"		"16" [$POSIX]
 				"weight"	"0"
@@ -232,7 +232,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"16" [!$POSIX]
 				"tall"		"18" [$POSIX]
 				"weight"	"0"
@@ -242,7 +242,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -345,7 +345,7 @@ Scheme
 			"isproportional" "only"
 			"1"
 			{
-				"name"			"Verdana" // Chat font
+				"name"			"TF2Secondary-Hebrew" // Chat font
 				"tall"			"12"	[!$POSIX] // Chat fontsize
 				"tall"			"15"	[$POSIX] // Chat fontsize
 				"weight"		"700" // Chat fontweight
@@ -355,7 +355,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Verdana" // Chat font
+				"name"			"TF2Secondary-Hebrew" // Chat font
 				"tall"			"14"	[!$POSIX] // Chat fontsize
 				"tall"			"17"	[$POSIX] // Chat fontsize
 				"weight"		"700" // Chat fontweight
@@ -365,7 +365,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Verdana" // Chat font
+				"name"			"TF2Secondary-Hebrew" // Chat font
 				"tall"			"15"	[!$POSIX] // Chat fontsize
 				"tall"			"18"	[$POSIX] // Chat fontsize
 				"weight"		"700" // Chat fontweight
@@ -375,7 +375,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Verdana" // Chat font
+				"name"			"TF2Secondary-Hebrew" // Chat font
 				"tall"			"17"	[!$POSIX] // Chat fontsize
 				"tall"			"20"	[$POSIX] // Chat fontsize
 				"weight"		"700" // Chat fontweight
@@ -385,7 +385,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"			"Verdana" // Chat font
+				"name"			"TF2Secondary-Hebrew" // Chat font
 				"tall"			"8" // Chat fontsize
 				"weight"		"300" // Chat fontweight
 				"dropshadow"	"1" // Chat shadow

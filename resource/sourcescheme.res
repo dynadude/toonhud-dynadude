@@ -219,7 +219,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -229,7 +229,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -288,7 +288,7 @@ Scheme
 			"1"
 			{
 				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"TF2Secondary-Hebrew" [$OSX]
 				"weight"		"1500"
 				"tall"			"16" [!$OSX]
 				"tall"			"18" [$OSX]
@@ -301,7 +301,7 @@ Scheme
 			"1"
 			{
 				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"TF2Secondary-Hebrew" [$OSX]
 				"weight"		"1500"
 				"tall"			"18" [!$OSX]
 				"tall"			"19" [$OSX]
@@ -314,7 +314,7 @@ Scheme
 			"1"
 			{
 				"name"		"Arial" [!$OSX]
-				"name"		"Verdana" [$OSX]
+				"name"		"TF2Secondary-Hebrew" [$OSX]
 				"weight"		"1000"
 				"tall"			"14" [!$OSX]
 				"tall"			"12" [$OSX]
