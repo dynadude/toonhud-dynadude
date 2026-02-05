@@ -187,7 +187,7 @@ Scheme
 		{
 			"1"	[!$OSX]
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -206,7 +206,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
