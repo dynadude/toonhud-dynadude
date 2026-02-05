@@ -3291,6 +3291,21 @@ Scheme
 		"24" "resource/linux_fonts/LiberationSans-Bold.ttf"
 		"25" "resource/linux_fonts/LiberationMono-Regular.ttf"
 		"26" "resource/linux_fonts/FiraSans-Regular.ttf"
+		"27"
+		{
+			"font" "resource/fonts/tf2secondary-hebrew.ttf"
+			"name" "TF2Secondary-Hebrew"
+		}
+		"28"
+		{
+			"font" "resource/fonts/tf2build-hebrew.ttf"
+			"name" "TF2Build-Hebrew"
+		}
+		"29"
+		{
+			"font" "resource/fonts/tf2-hebrew.ttf"
+			"name" "TF2-Hebrew"
+		}
 	}
 }
 
