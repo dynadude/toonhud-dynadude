@@ -123,8 +123,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"50" [$WINDOWS] // Size Huge Primary
 				"tall"			"50" [!$WINDOWS] // Size Huge Primary
 				"weight"		"0"
@@ -137,8 +137,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"43" // Size Big Primary
 				"weight"		"0"
 				"additive"		"0"
@@ -150,8 +150,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"20" [$WINDOWS] // Size Medium Primary
 				"tall"			"20" [!$WINDOWS] // Size Medium Primary
 				"weight"		"0"
@@ -164,8 +164,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"12" [$WINDOWS] // Size Small Primary
 				"tall"			"12" [!$WINDOWS] // Size Small Primary
 				"weight"		"0"
@@ -178,8 +178,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"11" [$WINDOWS] // Size Tiny Primary
 				"tall"			"11" [!$WINDOWS] // Size Tiny Primary
 				"weight"		"0"
@@ -193,8 +193,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" [$WINDOWS] // Secondary font
-				"name"			"TF2 Secondary" [!$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [!$WINDOWS] // Secondary font
 				"tall"			"25" // Size Huge Secondary
 				"weight"		"0"
 				"additive"		"0"
@@ -206,8 +206,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" [$WINDOWS] // Secondary font
-				"name"			"TF2 Secondary" [!$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [!$WINDOWS] // Secondary font
 				"tall"			"19" // Size Big Secondary
 				"weight"		"0"
 				"additive"		"0"
@@ -219,8 +219,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" [$WINDOWS] // Secondary font
-				"name"			"TF2 Secondary" [!$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [!$WINDOWS] // Secondary font
 				"tall"			"16" // Size Medium Secondary
 				"weight"		"0"
 				"additive"		"0"
@@ -232,8 +232,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" [$WINDOWS] // Secondary font
-				"name"			"TF2 Secondary" [!$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [!$WINDOWS] // Secondary font
 				"tall"			"12" // Size Small Secondary
 				"weight"		"0"
 				"additive"		"0"
@@ -245,8 +245,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" [$WINDOWS] // Secondary font
-				"name"			"TF2 Secondary" [!$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [$WINDOWS] // Secondary font
+				"name"			"TF2Secondary-Hebrew" [!$WINDOWS] // Secondary font
 				"tall"			"10" // Size Tiny Secondary
 				"weight"		"0"
 				"additive"		"0"
@@ -259,8 +259,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Health Font | Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Health Font | Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Health Font | Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Health Font | Primary font
 				"tall"			"50" // Size Huge Primary - Font Size Health
 				"weight"		"0"
 				"additive"		"0"
@@ -272,8 +272,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Ammo Font | Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Ammo Font | Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Ammo Font | Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Ammo Font | Primary font
 				"tall"			"50" // Size Huge Primary - Font Size Ammo
 				"weight"		"0"
 				"additive"		"0"
@@ -285,8 +285,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"20" [$WINDOWS] // Font Size Big Main Menu
 				"tall"			"10" [!$WINDOWS] // Font Size Big Main Menu
 				"weight"		"0"
@@ -299,8 +299,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"10" [$WINDOWS] // Font Size Main Menu
 				"tall"			"10" [!$WINDOWS] // Font Size Main Menu
 				"weight"		"0"
@@ -313,8 +313,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" [$WINDOWS] // Damage font | Primary font
-				"name"			"TF2 Secondary" [!$WINDOWS] // Damage font | Primary font
+				"name"			"TF2Secondary-Hebrew" [$WINDOWS] // Damage font | Primary font
+				"name"			"TF2Secondary-Hebrew" [!$WINDOWS] // Damage font | Primary font
 				"tall"			"20" // Damage size
 				"weight"		"0"
 				"additive"		"0"
@@ -327,8 +327,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Crit damage font | Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Crit damage font | Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Crit damage font | Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Crit damage font | Primary font
 				"tall"			"22" // Crit damage size
 				"weight"		"0"
 				"additive"		"0"
@@ -341,8 +341,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Target ID health font | Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Target ID health font | Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Target ID health font | Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Target ID health font | Primary font
 				"tall"			"14" // Target ID health text size
 				"weight"		"0"
 				"additive"		"0"
@@ -365,8 +365,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"20" // Size Medium Primary
 				"weight"		"0"
 				"additive"		"0"
@@ -379,8 +379,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build" [$WINDOWS] // Primary font
-				"name"			"TF2 Build" [!$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [$WINDOWS] // Primary font
+				"name"			"TF2Build-Hebrew" [!$WINDOWS] // Primary font
 				"tall"			"12" [$WINDOWS] // Size Small Primary
 				"tall"			"12" [!$WINDOWS] // Size Small Primary
 				"weight"		"0"
@@ -831,7 +831,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -841,7 +841,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -851,7 +851,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -860,7 +860,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -869,7 +869,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -880,7 +880,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -893,7 +893,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -906,7 +906,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -918,7 +918,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -929,7 +929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -940,7 +940,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -952,7 +952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"24"
 				"weight"	"500"
 				"yres"		"1 1199"
@@ -961,7 +961,7 @@ Scheme
 			}
 			"2" // Misyl: Proportional
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -972,7 +972,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -983,7 +983,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -994,7 +994,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1007,7 +1007,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -1020,7 +1020,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -1032,7 +1032,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1043,7 +1043,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1054,7 +1054,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1066,7 +1066,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1077,7 +1077,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1089,7 +1089,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1100,7 +1100,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1111,7 +1111,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1122,7 +1122,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1133,7 +1133,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1144,7 +1144,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1155,7 +1155,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1166,7 +1166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -1179,7 +1179,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1254,7 +1254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1267,7 +1267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1327,7 +1327,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1337,7 +1337,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1348,7 +1348,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1357,7 +1357,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1366,7 +1366,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1451,8 +1451,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary" [$WINDOWS] // Closed captions font | Secondary font
-				"name"		"TF2 Secondary" [!$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [!$WINDOWS] // Closed captions font | Secondary font
 				"tall"		"20" // Closed captions size | Size Medium Primary
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1464,8 +1464,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary" [$WINDOWS] // Closed captions font | Secondary font
-				"name"		"TF2 Secondary" [!$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [!$WINDOWS] // Closed captions font | Secondary font
 				"tall"		"20" // Closed captions size | Size Medium Primary
 				"weight"	"500"
 				"italic"	"1"
@@ -1478,8 +1478,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary" [$WINDOWS] // Closed captions font | Secondary font
-				"name"		"TF2 Secondary" [!$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [!$WINDOWS] // Closed captions font | Secondary font
 				"tall"		"20" // Closed captions size | Size Medium Primary
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1491,8 +1491,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary" [$WINDOWS] // Closed captions font | Secondary font
-				"name"		"TF2 Secondary" [!$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [!$WINDOWS] // Closed captions font | Secondary font
 				"tall"		"20" // Closed captions size | Size Medium Primary
 				"weight"	"900"
 				"italic"	"1"
@@ -1505,8 +1505,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary" [$WINDOWS] // Closed captions font | Secondary font
-				"name"		"TF2 Secondary" [!$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [$WINDOWS] // Closed captions font | Secondary font
+				"name"		"TF2Secondary-Hebrew" [!$WINDOWS] // Closed captions font | Secondary font
 				"tall"		"20" // Closed captions size | Size Medium Primary
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1541,7 +1541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1551,7 +1551,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1562,7 +1562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1668,7 +1668,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1681,7 +1681,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1693,7 +1693,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1705,7 +1705,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1719,7 +1719,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1731,7 +1731,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1743,7 +1743,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1758,7 +1758,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -1770,7 +1770,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1780,7 +1780,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1790,7 +1790,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1799,7 +1799,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1808,7 +1808,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1821,7 +1821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1833,7 +1833,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1844,7 +1844,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1855,7 +1855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1867,7 +1867,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1986,7 +1986,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2086,7 +2086,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -2099,7 +2099,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"10"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2111,7 +2111,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2164,7 +2164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -2174,7 +2174,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -2184,7 +2184,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -2212,7 +2212,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -2221,7 +2221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -2260,7 +2260,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -2271,7 +2271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -2282,7 +2282,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2370,7 +2370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2381,7 +2381,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2392,7 +2392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2403,7 +2403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2414,7 +2414,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2435,7 +2435,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2446,7 +2446,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2457,7 +2457,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2469,7 +2469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2480,7 +2480,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build"
+				"name"			"TF2Build-Hebrew"
 				"tall"			"9"
 				"weight"		"500"
 				"blur"			"3"
@@ -2642,7 +2642,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2651,7 +2651,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2660,7 +2660,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2673,7 +2673,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2683,7 +2683,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2693,7 +2693,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2707,7 +2707,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -2716,7 +2716,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -2725,7 +2725,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -2738,7 +2738,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -2750,7 +2750,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -2761,7 +2761,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
@@ -2869,7 +2869,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2933,7 +2933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2944,7 +2944,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2955,7 +2955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2-Hebrew"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -2968,7 +2968,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2979,7 +2979,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -2996,7 +2996,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3007,7 +3007,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3019,7 +3019,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3032,7 +3032,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"TF2Secondary-Hebrew"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -3045,7 +3045,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias" 	"1"
@@ -3057,7 +3057,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"11"
 				"weight"	"500"
 				"blur"		"3"
@@ -3071,7 +3071,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2Build-Hebrew"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
